@@ -59,7 +59,7 @@ Result: [Task 1](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapte
 
 Finding the maximum from the minimum
 
-![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/Branchings/Task_2/img/3.PNG)
+![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Branchings/Task_2/img/3.PNG)
 
 Result: [Task 2](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Branchings/Task_2)
 
@@ -79,7 +79,7 @@ Result: [Task 4](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapte
 
 The calculation of the function:
 
-![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/Branchings/Task_5/img/3.PNG)
+![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Branchings/Task_5/img/3.PNG)
 
 Result: [Task 5](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Branchings/Task_5)
 
@@ -95,7 +95,7 @@ Result: [Task 1](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapte
 
 Calculating the function value on a segment:
 
-![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/Cycles/Task-2/img/3.PNG)
+![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Cycles/Task-2/img/3.PNG)
 
 Result: [Task 2](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Cycles/Task-2)
 
@@ -115,7 +115,7 @@ Result: [Task 4](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapte
 
 Finding the sum of series members whose modulus is greater than or equal to the given e
 
-![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/Cycles/Task-5/img/3.PNG)
+![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Cycles/Task-5/img/3.PNG)
 
 Result: [Task 5](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Cycles/Task-5)
 
