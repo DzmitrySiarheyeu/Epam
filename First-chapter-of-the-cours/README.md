@@ -15,7 +15,7 @@ Result: [Task 1](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapte
 
 Calculating the value of an expression using the formula: 
 
-![](https://github.com/DzmitrySiarheyeu/Epam/First-chapter-of-the-course/blob/master/Linear%20programs/Task%202/img/3.PNG)
+![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/Linear%20programs/Task%202/img/3.PNG)
 
 Result: [Task 2](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Linear%20programs/Task%202)
 
@@ -23,7 +23,7 @@ Result: [Task 2](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapte
 
 Calculating the value of an expression using the formula: 
 
-![](https://github.com/DzmitrySiarheyeu/Epam/First-chapter-of-the-course/blob/master/Linear%20programs/Task%203/img/3.PNG)
+![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/Linear%20programs/Task%203/img/3.PNG)
 
 Result: [Task 3](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Linear%20programs/Task%203)
 
@@ -43,7 +43,7 @@ Result: [Task 5](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapte
 
 Finding a filled area on a grid
 
-![](https://github.com/DzmitrySiarheyeu/Epam/First-chapter-of-the-course/blob/master/Linear%20programs/Task%206/img/3.PNG)
+![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/Linear%20programs/Task%206/img/3.PNG)
 
 Result: [Task 6](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Linear%20programs/Task%206)
 
@@ -59,7 +59,7 @@ Result: [Task 1](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapte
 
 Finding the maximum from the minimum
 
-![](https://github.com/DzmitrySiarheyeu/Epam/First-chapter-of-the-course/blob/master/Branchings/Task_2/img/3.PNG)
+![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/Branchings/Task_2/img/3.PNG)
 
 Result: [Task 2](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Branchings/Task_2)
 
@@ -79,7 +79,7 @@ Result: [Task 4](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapte
 
 The calculation of the function:
 
-![](https://github.com/DzmitrySiarheyeu/Epam/First-chapter-of-the-course/blob/master/Branchings/Task_5/img/3.PNG)
+![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/Branchings/Task_5/img/3.PNG)
 
 Result: [Task 5](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Branchings/Task_5)
 
@@ -95,7 +95,7 @@ Result: [Task 1](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapte
 
 Calculating the function value on a segment:
 
-![](https://github.com/DzmitrySiarheyeu/Epam/First-chapter-of-the-course/blob/master/Cycles/Task-2/img/3.PNG)
+![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/Cycles/Task-2/img/3.PNG)
 
 Result: [Task 2](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Cycles/Task-2)
 
@@ -115,7 +115,7 @@ Result: [Task 4](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapte
 
 Finding the sum of series members whose modulus is greater than or equal to the given e
 
-![](https://github.com/DzmitrySiarheyeu/Epam/First-chapter-of-the-course/blob/master/Cycles/Task-5/img/3.PNG)
+![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/Cycles/Task-5/img/3.PNG)
 
 Result: [Task 5](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Cycles/Task-5)
 
