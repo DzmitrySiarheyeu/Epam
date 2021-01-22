@@ -1,3 +1,10 @@
+/*
+ *   Задание: Написать метод(методы) для вычисления суммы факториалов всех нечетных чисел от 1 до 9.
+ *
+ *   Dzmitry Siarheyeu
+ *   08.11.2020
+ */
+
 public class Task7 {
 
     public static void main(String[] args) {
