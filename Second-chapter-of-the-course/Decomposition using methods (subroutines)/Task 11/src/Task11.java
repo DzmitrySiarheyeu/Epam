@@ -1,3 +1,10 @@
+/*
+ *   Задание: Написать метод(методы), определяющий, в каком из данных двух чисел больше цифр.
+ *
+ *   Dzmitry Siarheyeu
+ *   09.11.2020
+ */
+
 import java.util.Scanner;
 import static java.lang.Math.*;
 
