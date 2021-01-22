@@ -14,8 +14,9 @@ Result: [Task 1](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapte
 ### Second task
 
 Calculating the value of an expression using the formula: 
+https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Branchings/Task_2/img/3.PNG
 
-![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/Linear%20programs/Task%202/img/3.PNG)
+![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Linear%20programs/Task%202/img/3.PNG)
 
 Result: [Task 2](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Linear%20programs/Task%202)
 
@@ -23,7 +24,7 @@ Result: [Task 2](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapte
 
 Calculating the value of an expression using the formula: 
 
-![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/Linear%20programs/Task%203/img/3.PNG)
+![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Linear%20programs/Task%203/img/3.PNG)
 
 Result: [Task 3](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Linear%20programs/Task%203)
 
@@ -43,7 +44,7 @@ Result: [Task 5](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapte
 
 Finding a filled area on a grid
 
-![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/Linear%20programs/Task%206/img/3.PNG)
+![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Linear%20programs/Task%206/img/3.PNG)
 
 Result: [Task 6](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Linear%20programs/Task%206)
 
