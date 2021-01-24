@@ -1,3 +1,11 @@
+/*
+ *   Задание: Даны действительные числа a1, a2, ..., an.
+ *   Поменять местами наибольший и наименьший элементы.
+ *
+ *   Dzmitry Siarheyeu
+ *   01.11.2020
+ */
+
 import java.util.Random;
 import java.util.Scanner;
 
