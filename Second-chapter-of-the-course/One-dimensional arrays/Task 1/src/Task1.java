@@ -1,3 +1,11 @@
+/*
+ *   Задание: В массив A[N] занесены натуральные числа.
+ *   Найти сумму тех элементов, которые кратны данному K
+ *
+ *   Dzmitry Siarheyeu
+ *   01.11.2020
+ */
+
 import java.util.Random;
 import java.util.Scanner;
 
