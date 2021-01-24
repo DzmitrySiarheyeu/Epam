@@ -1,3 +1,11 @@
+/*
+ *   Задание: Дана последователььность целых чисел a1, a2, ..., an. Образовать новую последовательность,
+ *   выбросив из исходной те члены, которые равны min(a1, a2, ..., an).
+ *
+ *   Dzmitry Siarheyeu
+ *   01.11.2020
+ */
+
 import java.util.Random;
 import java.util.Scanner;
 
@@ -25,12 +33,15 @@ public class Task8 {
             array[i] = random.nextInt(1000);
             System.out.print(array[i] + " ");
         }
+
         min = array[0];
-    for(int i = 0; i < n; i++) {
-        if (array[i] < min) {
-            min = array[i];
+
+        for(int i = 0; i < n; i++) {
+            if (array[i] < min) {
+                min = array[i];
+            }
         }
-    }
+
         for (int value : array) {
             if (value == min) {
                 minCount++;
@@ -53,6 +64,5 @@ public class Task8 {
         }
 
         input.close();
-
     }
 }
