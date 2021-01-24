@@ -1,3 +1,11 @@
+/*
+ *   Задание: Задана последовательность N вещественных чисел. Вычислить сумму чисел,
+ *   порядковые номера которых являются простыми числами
+ *
+ *   Dzmitry Siarheyeu
+ *   01.11.2020
+ */
+
 import java.util.Random;
 import java.util.Scanner;
 
@@ -25,7 +33,7 @@ public class Task6 {
         for(int i = 0 ; i < n ; i++){
             array[i] = random.nextInt(1000);
             System.out.print(array[i] + " ");
-            if (chek(i+1) && i >0) {
+            if (chek(i+1) && i > 0) {
                 sum += array[i];
             }
         }
