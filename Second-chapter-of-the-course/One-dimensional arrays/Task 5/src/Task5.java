@@ -1,3 +1,11 @@
+/*
+ *   Задание: Даны целые числа a1, a2, ..., an. Вывести на печать только те числа,
+ *   для которых ai > i.
+ *
+ *   Dzmitry Siarheyeu
+ *   01.11.2020
+ */
+
 import java.util.Random;
 import java.util.Scanner;
 
