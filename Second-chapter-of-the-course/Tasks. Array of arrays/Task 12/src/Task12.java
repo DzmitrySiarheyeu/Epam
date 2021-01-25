@@ -1,3 +1,10 @@
+/*
+ *   Задание: отсортировать строки матрицы по возрастанию и убыванию значений элементов.
+ *
+ *   Dzmitry Siarheyeu
+ *   02.11.2020
+ */
+
 import java.util.Random;
 import java.util.Scanner;
 
