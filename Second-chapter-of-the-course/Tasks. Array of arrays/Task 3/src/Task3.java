@@ -1,3 +1,10 @@
+/*
+ *   Задание: Дана матрицаю. вывести k-ю строку и p-й солбец матрицы.
+ *
+ *   Dzmitry Siarheyeu
+ *   02.11.2020
+ */
+
 import java.util.Random;
 import java.util.Scanner;
 
