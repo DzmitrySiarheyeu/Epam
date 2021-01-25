@@ -1,3 +1,10 @@
+/*
+ *   Задание: Дана квадратная матрица. Вывести на экран элементы, стоящие на диагонали.
+ *
+ *   Dzmitry Siarheyeu
+ *   02.11.2020
+ */
+
 import java.util.Random;
 import java.util.Scanner;
 
