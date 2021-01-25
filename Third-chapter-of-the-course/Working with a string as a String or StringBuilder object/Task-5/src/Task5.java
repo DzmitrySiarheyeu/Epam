@@ -1,3 +1,10 @@
+/*
+ *   Задание: Подсчитать, сколько раз среди символов заданной строки встречается буква "a".
+ *
+ *   Dzmitry Siarheyeu
+ *   17.11.2020
+ */
+
 import java.util.Scanner;
 
 public class Task5 {
