@@ -1,3 +1,10 @@
+/*
+ *   Задание: В строке найти количество цифр.
+ *
+ *   Dzmitry Siarheyeu
+ *   15.11.2020
+ */
+
 import java.util.Scanner;
 
 public class Task3 {
