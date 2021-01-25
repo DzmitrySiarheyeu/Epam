@@ -1,3 +1,10 @@
+/*
+ *   Задание: Из заданной строки получить новую, повторив каждый символ дважды.
+ *
+ *   Dzmitry Siarheyeu
+ *   17.11.2020
+ */
+
 import java.util.Scanner;
 
 public class Task6 {
