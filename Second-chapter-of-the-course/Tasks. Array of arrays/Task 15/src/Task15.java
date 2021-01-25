@@ -1,3 +1,11 @@
+/*
+ *   Задание: Найдите наибольший элемент матрицы и заменить
+ *   все нечетные элементы на него.
+ *
+ *   Dzmitry Siarheyeu
+ *   03.11.2020
+ */
+
 import java.util.Random;
 import java.util.Scanner;
 
