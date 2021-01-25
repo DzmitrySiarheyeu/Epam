@@ -1,3 +1,10 @@
+/*
+ *   Задание: Замените в строке вс вхождения 'word' на 'letter'.
+ *
+ *   Dzmitry Siarheyeu
+ *   15.11.2020
+ */
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

@@ -1,3 +1,10 @@
+/*
+ *   Задание: Дан массив названий переменных camelCase. Преобразовать названия в snake_case.
+ *
+ *   Dzmitry Siarheyeu
+ *   15.11.2020
+ */
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
