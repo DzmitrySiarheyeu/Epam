@@ -4,7 +4,7 @@
  *   (b + √(b^2 + 4ac))/2a - a^3 * c + b^-2
  *
  *   Dzmitry Siarheyeu
- *   25.10.2020
+ *   17.02.2021
  */
 
 import java.util.Scanner;

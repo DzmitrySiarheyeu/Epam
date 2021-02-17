@@ -3,11 +3,10 @@
  *  y = x при x > 2 и y = -x при x <= 2
  *
  *  Dzmitry Siarheyeu
- *  25.10.2020
+ *  17.02.2021
 */
 
 import java.util.Scanner;
-import static java.lang.Math.*;
 
 public class Task2 {
 
