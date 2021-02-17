@@ -4,7 +4,7 @@
  *   часах, минутах и секундах в следующей форме: HHч MMмин SSс
  *
  *   Dzmitry Siarheyeu
- *   25.10.2020
+ *   17.02.2021
  */
 
 import java.text.SimpleDateFormat;
@@ -12,7 +12,6 @@ import java.util.GregorianCalendar;
 import java.util.Scanner;
 
 public class Task5 {
-
 
     public static void main(String[] args) {
 
@@ -34,6 +33,4 @@ public class Task5 {
 
         in.close();     // закрытие сканера
     }
-
-
 }

@@ -4,11 +4,10 @@
  * Общий член ряда имеет вид: an = 1 / 2^n + 1 / 3^n
  *
  *  Dzmitry Siarheyeu
- *  25.10.2020
+ *  17.02.2021
  */
 
 import java.util.Scanner;
-
 import static java.lang.Math.*;
 
 public class Task5 {
