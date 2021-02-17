@@ -2,7 +2,7 @@
  *  Задание: Найти сумму квадратов первых ста чисел
  *
  *  Dzmitry Siarheyeu
- *  25.10.2020
+ *  17.02.2021
  */
 
 import static java.lang.Math.pow;
@@ -20,6 +20,5 @@ public class Task3 {
         }
         
         System.out.println("Result: " + x); // вывод результата
-
     }
 }

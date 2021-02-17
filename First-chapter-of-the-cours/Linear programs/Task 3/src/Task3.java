@@ -4,7 +4,7 @@
  *   (sin(x) + cos(y)) / (cos(x) - sin(y)) * tg(xy)
  *
  *   Dzmitry Siarheyeu
- *   25.10.2020
+ *   17.02.2021
  */
 
 import java.util.Scanner;
