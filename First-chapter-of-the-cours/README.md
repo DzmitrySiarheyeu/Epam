@@ -14,7 +14,7 @@ Result: [Task 1](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapte
 ### Second task
 
 Calculating the value of an expression using the formula: 
-https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Branchings/Task_2/img/3.PNG
+![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Branchings/Task_2/img/3.PNG)
 
 ![](https://github.com/DzmitrySiarheyeu/Epam/blob/main/First-chapter-of-the-cours/Linear%20programs/Task%202/img/3.PNG)
 
