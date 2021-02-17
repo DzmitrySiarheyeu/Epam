@@ -5,7 +5,7 @@
  *   вывести полученное значение числа
  *
  *   Dzmitry Siarheyeu
- *   25.10.2020
+ *   17.02.2021
  */
 
 import java.util.Scanner;
@@ -28,7 +28,6 @@ public class Task4 {
 
         R = Float.parseFloat(str);
         i=(int)R;
-
 
         z = ((float) i/1000)+(int)((R-i)*1000);     // вычисление функции
 

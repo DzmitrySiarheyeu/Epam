@@ -2,11 +2,10 @@
  *  Задание: Составить прогруамму нахождения квадратов первых двухсот чисел.
  *
  *  Dzmitry Siarheyeu
- *  25.10.2020
+ *  17.02.2021
  */
 
 import java.math.BigInteger;
-
 import static java.lang.Math.pow;
 
 public class Task4 {
@@ -22,6 +21,5 @@ public class Task4 {
         }
 
         System.out.println("Result: " + s);  // вывод результата
-
     }
 }
