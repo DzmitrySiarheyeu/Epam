@@ -3,7 +3,7 @@
  *   как первого так и второго числа
  *
  *   Dzmitry Siarheyeu
- *   25.10.2020
+ *   17.02.2021
  */
 
 import java.util.Scanner;
@@ -51,7 +51,6 @@ public class Task8 {
         }
         // конец функия разделение второго числа на цифры
 
-
         // начало функции поиска одинаковых цифер
         for(int i = 0; i<10; i++){
             for(int j = 0; j<count1; j++){
@@ -71,7 +70,6 @@ public class Task8 {
         }
         // конец функции поиска одинаковых цифер
 
-        
         // вывод результатов
         if(count3 == 0){
             System.out.println("The numbers do not contain the same digits");
@@ -81,7 +79,6 @@ public class Task8 {
             for(int i = 0; i<count3; i++){
                 System.out.print(c[i] + " ");
             }
-
         }
         // конец вывода результатов
 
