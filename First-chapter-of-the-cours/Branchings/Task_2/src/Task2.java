@@ -2,7 +2,7 @@
  *  Задание: Найти max{min(a, b), min(c, d)}
 
  *  Dzmitry Siarheyeu
- *  25.10.2020
+ *  17.02.2020
 */
 
 import java.util.Scanner;
