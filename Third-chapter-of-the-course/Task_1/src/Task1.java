@@ -19,7 +19,7 @@ public class Task1 {
             outputAction();
 
             act = input.nextInt();
-
+a
             while (act >= 4 || act < 0){
                 System.out.println("Invalid value");
                 outputAction();
