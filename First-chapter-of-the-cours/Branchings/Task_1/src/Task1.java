@@ -4,7 +4,7 @@
  *   то будет ли он прямоугольным.
  *
  *   Dzmitry Siarheyeu
- *   25.10.2020
+ *   17.02.2021
 */
 
 import java.util.Scanner;
@@ -31,8 +31,6 @@ public class Task1 {
                 System.out.println("The triangle is rectangular");
             }else System.out.println("The triangle is not rectangular");
         }else System.out.println("There is no such triangle");
-
-
 
         in.close(); // закрытие сканера
     }
