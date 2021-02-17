@@ -2,7 +2,7 @@
  *   Задание: Найти значение функции: z = ((a - 3) * b/2) + c.
  *
  *   Dzmitry Siarheyeu
- *   25.10.2020
+ *   17.02.2021
  */
 
 import java.util.Scanner;
