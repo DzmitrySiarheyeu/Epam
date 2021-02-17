@@ -3,7 +3,7 @@
  *   F(x) = x^2 - 3x + 9, если x <= 3 и F(x) = 1/(x^3 + 6), если x>3
  *
  *   Dzmitry Siarheyeu
- *   25.10.2020
+ *   17.02.2021
 */
 
 import java.util.Scanner;
