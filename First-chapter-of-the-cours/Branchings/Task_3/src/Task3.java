@@ -3,7 +3,7 @@
  *  Определить, будут ли они расположены на одной прямой.
  *
  *  Dzmitry Siarheyeu
- *  25.10.2020
+ *  17.02.2021
 */
 
 import java.util.Scanner;
@@ -34,7 +34,6 @@ public class Task3 {
             System.out.println("are on the same straight line");
         }else System.out.println("are not on one straight line");
         // конец вывода ответа
-
 
         in.close();     // закрытие сканера
     }
