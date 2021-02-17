@@ -3,13 +3,12 @@
  *   и их численными обозначениями в памяти компьютера
  *
  *   Dzmitry Siarheyeu
- *   25.10.2020
+ *   17.02.2021
  */
 
 import java.util.Scanner;
 
 public class Task6 {
-
 
     public static void main(String[] args) {
 

@@ -4,11 +4,10 @@
  *   пренадлежит закрашенной области, и false - в противном случае
  *
  *   Dzmitry Siarheyeu
- *   25.10.2020
+ *   17.02.2021
  */
 
 import java.util.Scanner;
-
 
 public class Task6 {
 
