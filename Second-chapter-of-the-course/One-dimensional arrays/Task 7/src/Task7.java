@@ -3,7 +3,7 @@
  *   Найти max(a1 + a2n, a2 + a2n-1, ... , an + an+1)
  *
  *   Dzmitry Siarheyeu
- *   01.11.2020
+ *   17.02.2021
  */
 
 import java.util.Random;
