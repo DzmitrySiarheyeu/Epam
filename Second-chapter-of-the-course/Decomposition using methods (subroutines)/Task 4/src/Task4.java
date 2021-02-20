@@ -4,7 +4,7 @@
  *   Координаты точек занесены в массив.
  *
  *   Dzmitry Siarheyeu
- *   05.11.2020
+ *   20.02.2021
  */
 
 import java.util.Scanner;
