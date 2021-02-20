@@ -3,7 +3,7 @@
  *   у которых первый элемент больше последнего.
  *
  *   Dzmitry Siarheyeu
- *   02.11.2020
+ *   17.02.2021
  */
 
 import java.util.Random;
