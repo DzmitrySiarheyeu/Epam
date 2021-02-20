@@ -43,7 +43,7 @@ Result: [Task 6](https://github.com/DzmitrySiarheyeu/Epam/blob/main/Second-chapt
 
 ### Seventh task
 
-Finding max(a1 + a2n, a2 + a2n-1, ... , an + an+1)
+Finding max(a1 + a2n, a2 + a2n-1, ..., an + an+1)
 
 Result: [Task 7](https://github.com/DzmitrySiarheyeu/Epam/blob/main/Second-chapter-of-the-course/One-dimensional%20arrays/Task%207)
 
