@@ -3,7 +3,7 @@
  *   элементами которого являются цифры числа N.
  *
  *   Dzmitry Siarheyeu
- *   09.11.2020
+ *   20.02.2021
  */
 
 import java.util.Scanner;
