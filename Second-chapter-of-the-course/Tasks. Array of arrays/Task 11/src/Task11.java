@@ -3,7 +3,7 @@
  *   номера строк, в которых число 5 встречается три и более раз.
  *
  *   Dzmitry Siarheyeu
- *   02.11.2020
+ *   18.02.2021
  */
 
 import java.util.Random;
@@ -20,9 +20,9 @@ public class Task11 {
         Scanner input = new Scanner(System.in);
         Random random = new Random();
 
-        System.out.println("");
+        System.out.println("Fill the 10x20 matrix with random numbers from 0 to 15. Displays the matrix and row numbers where 5 occurs 3 or more times");
 
-        array = new int[n][Output of k row and p columnm];
+        array = new int[n][m];
         count = new int[n];
 
         System.out.println("Matrix: ");
