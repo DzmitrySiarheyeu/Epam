@@ -4,7 +4,7 @@
  *   но болше всех других элементов)
  *
  *   Dzmitry Siarheyeu
- *   05.11.2020
+ *   20.02.2021
  */
 
 import java.util.Random;

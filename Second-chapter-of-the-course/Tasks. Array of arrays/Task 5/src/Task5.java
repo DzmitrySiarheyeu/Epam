@@ -8,7 +8,7 @@
  *   ( n   0   0  ...  0   0   0 )
  *
  *   Dzmitry Siarheyeu
- *   02.11.2020
+ *   18.02.2021
  */
 
 import java.util.Scanner;

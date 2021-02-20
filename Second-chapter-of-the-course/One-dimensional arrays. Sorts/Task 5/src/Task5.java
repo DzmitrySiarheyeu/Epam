@@ -9,7 +9,7 @@
  *   в виде отдельной функции.
  *
  *   Dzmitry Siarheyeu
- *   03.11.2020
+ *   20.02.2021
  */
 
 import java.util.Random;

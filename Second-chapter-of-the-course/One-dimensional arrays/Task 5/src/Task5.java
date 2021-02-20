@@ -3,7 +3,7 @@
  *   для которых ai > i.
  *
  *   Dzmitry Siarheyeu
- *   01.11.2020
+ *   17.02.2021
  */
 
 import java.util.Random;
