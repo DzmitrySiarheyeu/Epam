@@ -3,7 +3,7 @@
  *   все нечетные элементы на него.
  *
  *   Dzmitry Siarheyeu
- *   03.11.2020
+ *   19.02.2021
  */
 
 import java.util.Random;

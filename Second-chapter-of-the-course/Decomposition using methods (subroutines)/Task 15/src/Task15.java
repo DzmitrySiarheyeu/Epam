@@ -4,7 +4,7 @@
  *   задачи использовать декомпозицию.
  *
  *   Dzmitry Siarheyeu
- *   11.11.2020
+ *   20.02.2021
  */
 
 import java.util.ArrayList;
