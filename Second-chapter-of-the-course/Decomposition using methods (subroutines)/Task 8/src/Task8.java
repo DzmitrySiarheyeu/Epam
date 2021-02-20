@@ -5,7 +5,7 @@
  *   расположенных элементов массива с номерами от k до m.
  *
  *   Dzmitry Siarheyeu
- *   08.11.2020
+ *   20.02.2021
  */
 
 import java.util.Random;
