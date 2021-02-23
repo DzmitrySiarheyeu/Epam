@@ -3,7 +3,7 @@
  *   Например, если было введено "abc cde def", то должно вывести "abcdef".
  *
  *   Dzmitry Siarheyeu
- *   17.11.2020
+ *   21.02.2021
  */
 
 import java.util.Scanner;
@@ -31,7 +31,7 @@ public class Task7 {
 
         in = in.replaceAll(" ", "");
 
-        System.out.println("Result " + in);
+        System.out.println("Result: " + in);
 
         input.close();
     }
