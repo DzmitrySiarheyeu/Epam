@@ -3,7 +3,7 @@
  *   учитывать только английские буквы.
  *
  *   Dzmitry Siarheyeu
- *   18.11.2020
+ *   22.02.2021
  */
 
 import java.util.Scanner;
