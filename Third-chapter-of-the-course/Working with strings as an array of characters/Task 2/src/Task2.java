@@ -2,7 +2,7 @@
  *   Задание: Зaмените в строке вс вхождения 'word' на 'letter'.
  *
  *   Dzmitry Siarheyeu
- *   15.11.2020
+ *   21.02.2021
  */
 
 import java.util.ArrayList;
