@@ -2,7 +2,7 @@
  *   Задание: Дан массив названий переменных camelCase. Преобразовать названия в snake_case.
  *
  *   Dzmitry Siarheyeu
- *   15.11.2020
+ *   20.02.2021
  */
 
 import java.util.ArrayList;
@@ -27,7 +27,7 @@ public class Task1 {
         }
         camelCase.remove(camelCase.size()-1);
 
-        for (int i = 0; i< camelCase.size(); i++) {
+        for (int i = 0; i < camelCase.size(); i++) {
             camelCase.set(i,toSnakeCase(camelCase.get(i)));
         }
 
