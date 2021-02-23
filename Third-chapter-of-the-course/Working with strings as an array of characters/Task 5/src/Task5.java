@@ -3,7 +3,7 @@
  *   Крайние пробелы в строке удалить.
  *
  *   Dzmitry Siarheyeu
- *   15.11.2020
+ *   21.02.2021
  */
 
 import java.util.Scanner;
